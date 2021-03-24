@@ -6,7 +6,7 @@ I'm a full-stack developer interested in modern web applications and science. I 
 
 - ☕ Java, SpringBoot, Liferay
 - 🤖 NodeJS, Express, Koa
-- 🌍 JavaScript, TypeScript, React, Redux, Angular
+- 🌍 JavaScript, TypeScript, NextJS, React, Redux, Angular
 - ⌨️ Linux, Bash
 
 ## 📯 Get in touch
