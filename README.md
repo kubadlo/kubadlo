@@ -2,14 +2,14 @@
 
 I'm a full-stack developer interested in modern web applications and science. I like fast, secure, and well-tested code.
 
-## 💻 Tech stack
+## Tech stack
 
-- ☕ Java, SpringBoot, Liferay
-- 🤖 NodeJS, Express, Koa
-- 🌍 JavaScript, TypeScript, NextJS, React, Redux, Angular
-- ⌨️ Windows, PowerShell
+- Java, SpringBoot, Liferay
+- NodeJS, Express, Koa
+- JavaScript, TypeScript, NextJS, React, Redux, Angular
+- Windows, PowerShell
 
-## 📯 Get in touch
+## Get in touch
 
 - [DEV Community](https://dev.to/kubadlo)
 - [LinkedIn](https://www.linkedin.com/in/jakublesko/)
