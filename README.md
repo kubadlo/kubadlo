@@ -5,12 +5,12 @@ I'm a full-stack developer interested in modern web applications and science. I 
 ## Tech stack
 
 ### Frontend
-- JavaScript, TypeScript, CSS
-- React, Redux, Angular, NextJS, Tailwind CSS
+- JavaScript, TypeScript
+- React, Redux, NextJS, Remix, Tailwind CSS
 
 ### Backend
 - JavaScript, TypeScript, Java
-- NodeJS, Prisma, SpringBoot, Hibernate
+- NodeJS, Fastify, Prisma, SpringBoot, Hibernate, PostgreSQL
 
 ## Get in touch
 
