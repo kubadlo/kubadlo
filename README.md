@@ -5,15 +5,18 @@ I'm a full-stack developer interested in modern web applications and science. I 
 ## Tech stack
 
 ### Frontend
-- JavaScript, TypeScript
-- React, Redux, NextJS, Remix, Tailwind CSS
+
+- JavaScript, TypeScript, CSS
+- React, Redux, Remix, Next.js, Tailwind CSS
 
 ### Backend
+
 - JavaScript, TypeScript, Java
-- NodeJS, Fastify, Prisma, SpringBoot, Hibernate, PostgreSQL
+- Node.js, Fastify, Prisma, SpringBoot, Hibernate
 
 ## Get in touch
 
-- [DEV Community](https://dev.to/kubadlo)
-- [LinkedIn](https://www.linkedin.com/in/jakublesko/)
+- [GitHub](https://github.com/kubadlo)
+- [Mastodon](https://mastodon.social/@kubadlo)
 - [Twitter](https://twitter.com/kubadlo)
+- [LinkedIn](https://www.linkedin.com/in/jakublesko/)
